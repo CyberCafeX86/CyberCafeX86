@@ -1,10 +1,10 @@
 <pre>
 # 💫 About Me:                                                 
 - CyberCafe                                               .-.  
-- Brazillian, english fluent                       ,o8888o, |  
+- Brazilian, English fluent                       ,o8888o, |  
 - Cybersecurity student                          ,888888888/,  
 - Linux enthusiast                               888888888/88  
-- TOR and I2P supporter                          8888888/'888  
+- TOR and I2P enthusiast                         8888888/'888  
 - Network and Web Security focused               `8888/'8888'  
 - Python and C focused, PHP experienced          ( `,'888P'    
 - HTML, CSS                                      `-'           
